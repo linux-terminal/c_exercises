@@ -25,8 +25,7 @@ int main() {
 		    
 	    for(int i=0;i<n+m;i++)
 		{
-	        if(c[i]!=c[i+1])
-				cout<<c[i];
+	        cout<<c[i];
 	    }
 	    
     return 0;
